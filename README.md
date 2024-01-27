@@ -145,3 +145,5 @@ There is [an example of compose file](examples/docker-compose.yml) to simulate t
 ```
 $ docker-compose up -d
 ```
+
+.
